@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HWadv16/static/css/main.474e9923.css",
+    "main.js": "/HWadv16/static/js/main.43d39aa2.js",
+    "static/js/787.97b2d53a.chunk.js": "/HWadv16/static/js/787.97b2d53a.chunk.js",
+    "static/media/mask.jpeg": "/HWadv16/static/media/mask.fc9023cde6b178833b1c.jpeg",
+    "static/media/dogcoin.jpeg": "/HWadv16/static/media/dogcoin.4be57e4cc6163f82b0a2.jpeg",
+    "static/media/checkmark.svg": "/HWadv16/static/media/checkmark.06b3e0a7fec87b2cf25e75386e96e624.svg",
+    "static/media/like.svg": "/HWadv16/static/media/like.9ebe8e687afb9d650035a3f39f6afb8d.svg",
+    "static/media/download.svg": "/HWadv16/static/media/download.db173770fc8b2fd3c9f0bf641960cc84.svg",
+    "static/media/share.svg": "/HWadv16/static/media/share.884c34ff651a0fd8aed6da2437f6f59f.svg",
+    "index.html": "/HWadv16/index.html",
+    "static/media/message.svg": "/HWadv16/static/media/message.ec38dba060e8b3fafd92b0ba39e0646d.svg",
+    "main.474e9923.css.map": "/HWadv16/static/css/main.474e9923.css.map",
+    "main.43d39aa2.js.map": "/HWadv16/static/js/main.43d39aa2.js.map",
+    "787.97b2d53a.chunk.js.map": "/HWadv16/static/js/787.97b2d53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474e9923.css",
+    "static/js/main.43d39aa2.js"
+  ]
+}

@@ -1,0 +1,95 @@
+body {
+  background-color: rgb(184, 180, 173);
+}
+.post {
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: rgb(94, 78, 125);
+  border-radius: 15px;
+}
+
+.header {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 0;
+}
+
+.information {
+  display: flex;
+  width: 400px;
+  align-items: center;
+}
+.information li {
+  list-style: none;
+  margin-left: 10px;
+}
+.fullName {
+  color: azure;
+  font-size: 20px;
+  font-weight: bold;
+}
+.nickName {
+  color: rgb(124, 121, 133);
+  font-size: 15px;
+}
+.post-text{
+  display: flex;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  height: 40px;
+  width: 70%;
+  margin-left: 15%;
+  color: azure;
+
+}
+
+.post-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 240px;
+  border-radius: 30px;
+}
+.footer{
+  width: 600px;
+  height: 40px;
+  margin: 0 auto;
+}
+.likes-info {
+  display: flex;
+  width: 500px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.message-box {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
+.post-svg{
+  width: 18px;
+  height: 18px;
+}
+.post-information{
+  margin-left: 7px;
+  color: rgb(124, 121, 133);
+}
